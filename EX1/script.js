@@ -16,7 +16,7 @@ do {
         alert("Bravo !!!")
         var y = prompt("voulez-vous jouer une autre fois ?")
     } else {
-        alert("essaye une autre fois :( ..")
+        alert("désolé  :( ..")
     }
 }
 while (y.toUpperCase() == "OUI");
